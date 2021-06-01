@@ -1,0 +1,37 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+#img1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width:80px;
+    height:20px;
+}
+#d1{
+    margin-top: 0px;
+    
+}
+#img2{
+width:10px;
+height: 10px;
+}
+.car{
+   
+    color:white;
+    margin-top: 10px;
+}
+#l1{
+    margin-top: 10px;
+    width: 110px;
+}
+.c{
+    color:rgb(8, 109, 241);
+}
+#sec{
+    margin-top:90px;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
